@@ -9,7 +9,7 @@ I’m sharing them for transparency and in the hope that others may still find v
 
 ### 1. Imaging Neuroscience Submission  
 - **Folder:** `/imagingneuroscience/`  
-- **File:** [imagingneuroscience_submission.pdf](imagingneuroscience/imagingneuroscience_submission.pdf)  
+- **File:** [imagingneuroscience_submission.pdf](imagingneuroscience/journal_review_paper_ashbee.pdf)  
 - **Status:** Rejected submission to *Imaging Neuroscience*.  
 - **Notes:** Full draft version, includes figures and references.  
 
