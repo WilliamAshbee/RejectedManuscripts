@@ -33,7 +33,7 @@ I’m sharing them for transparency and in the hope that others may still find v
 
 ### 4. WACV 2025 Submission  
 - **Folder:** `/wacv2025/`  
-- **File:** [wacv2025_submission.pdf](wacv2025/wacv2025_submission.pdf)  
+- **File:** [WACV_2025_CSRVC.pdf](wacv2025/WACV_2025_CSRVC.pdf)  
 - **Status:** Full paper, rejected from *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025)*.  
 - **Notes:** Submitted PDF and optional code/figures included.  
 
