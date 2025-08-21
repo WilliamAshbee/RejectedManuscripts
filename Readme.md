@@ -7,15 +7,9 @@ I’m sharing them for transparency and in the hope that others may still find v
 
 ## 📂 Contents  
 
-### 1. Imaging Neuroscience Submission  
-- **Folder:** `/imagingneuroscience/`  
-- **File:** [journal_review_paper_ashbee.pdf](imagingneuroscience/journal_review_paper_ashbee.pdf)  
-- **Status:** Rejected submission to *Imaging Neuroscience*.  
-- **Notes:** Full draft version, includes figures and references.  
-
 ---
 
-### 2. ISBI 2025 Submission  
+### 1. ISBI 2025 Submission  
 - **Folder:** `/isbi2025/`  
 - **File:** [isbisubmission.pdf](isbi2025/isbisubmission.pdf)  
 - **Status:** 4-page poster paper, rejected from *IEEE International Symposium on Biomedical Imaging (ISBI 2025)*.  
@@ -23,6 +17,13 @@ I’m sharing them for transparency and in the hope that others may still find v
 
 ---
 
+### 2. WACV 2025 Submission  
+- **Folder:** `/wacv2025/`  
+- **File:** [WACV_2025_CSRVC.pdf](wacv2025/WACV_2025_CSRVC.pdf)  
+- **Status:** Full paper, rejected from *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025)*.  
+- **Notes:** Submitted PDF and optional code/figures included.  
+
+---
 ### 3. NeurIPS Workshop Submission  
 - **Folder:** `/neuripsworkshop/`  
 - **File:** [Neurips2023WorkshopAbstract3DVitMeshnetUnet.pdf](neuripsworkshop/Neurips2023WorkshopAbstract3DVitMeshnetUnet.pdf)  
@@ -31,11 +32,11 @@ I’m sharing them for transparency and in the hope that others may still find v
 
 ---
 
-### 4. WACV 2025 Submission  
-- **Folder:** `/wacv2025/`  
-- **File:** [WACV_2025_CSRVC.pdf](wacv2025/WACV_2025_CSRVC.pdf)  
-- **Status:** Full paper, rejected from *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025)*.  
-- **Notes:** Submitted PDF and optional code/figures included.  
+### 4. Imaging Neuroscience Submission  
+- **Folder:** `/imagingneuroscience/`  
+- **File:** [journal_review_paper_ashbee.pdf](imagingneuroscience/journal_review_paper_ashbee.pdf)  
+- **Status:** Rejected submission to *Imaging Neuroscience*.  
+- **Notes:** Full draft version, includes figures and references.  
 
 ---
 
