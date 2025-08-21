@@ -27,3 +27,20 @@ I’m sharing them for transparency and in the hope that others may still find v
 - **Folder:** `/neuripsworkshop/`  
 - **File:** [neuripsworkshop_submission.pdf](neuripsworkshop/neuripsworkshop_submission.pdf)  
 - **Status:** Workshop paper submitted to *NeurIPS [Workshop Name]*, rejected.  
+- **Notes:** Short-form submission focused on preliminary experiments.  
+
+---
+
+### 4. WACV 2025 Submission  
+- **Folder:** `/wacv2025/`  
+- **File:** [wacv2025_submission.pdf](wacv2025/wacv2025_submission.pdf)  
+- **Status:** Full paper, rejected from *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025)*.  
+- **Notes:** Submitted PDF and optional code/figures included.  
+
+---
+
+## 🚨 Disclaimer  
+
+- These manuscripts are **unpublished** and have **not been peer reviewed**.  
+- They are shared *as-is* for academic and archival purposes.  
+- If you reference these works, please note clearly that they are **unpublished manuscripts**.  
