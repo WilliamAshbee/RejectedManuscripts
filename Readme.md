@@ -1,39 +1,46 @@
-# Rejected Papers Archive  
+# Rejected Manuscripts  
 
-This repository collects a set of my research papers that were submitted but **not accepted** at their respective venues.  
-The goal is to make the work accessible, transparent, and potentially useful for others in the community.  
+This repository collects several of my research papers that were submitted but **not accepted** at their respective venues.  
+I’m sharing them for transparency and in the hope that others may still find value in the ideas and experiments.  
 
 ---
 
-## 📄 Contents  
+## 📂 Contents  
 
-### 1. WACV 2025 Submission  
-- **Folder:** `/wacv2025/`  
-- **File:** `wacv2025_submission.pdf`  
-- **Status:** Full paper, rejected from IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025).  
-- **Notes:** Includes the submitted PDF and optional scripts for reproducing experiments.  
+### 1. Imaging Neuroscience Submission  
+- **Folder:** `/imagingneuroscience/`  
+- **File:** `imagingneuroscience_submission.pdf`  
+- **Status:** Rejected submission to *Imaging Neuroscience*.  
+- **Notes:** Full draft version, includes figures and references.  
+
+---
 
 ### 2. ISBI 2025 Submission  
 - **Folder:** `/isbi2025/`  
 - **File:** `isbi2025_poster.pdf`  
-- **Status:** 4-page poster submission, rejected from IEEE International Symposium on Biomedical Imaging (ISBI 2025).  
-- **Notes:** Includes the submitted PDF and any associated figures or data processing code.  
+- **Status:** 4-page poster paper, rejected from *IEEE International Symposium on Biomedical Imaging (ISBI 2025)*.  
+- **Notes:** Submitted PDF with figures and methods; concise poster-style submission.  
 
-### 3. Review Paper (Journal Submission)  
-- **Folder:** `/review_paper/`  
-- **File:** `reviewpaper_journal2024.pdf`  
-- **Status:** Review article, rejected from *[Journal Name]*.  
-- **Notes:** Submitted PDF only. References and figures are included in the paper.  
+---
+
+### 3. NeurIPS Workshop Submission  
+- **Folder:** `/neuripsworkshop/`  
+- **File:** `neuripsworkshop_submission.pdf`  
+- **Status:** Workshop paper submitted to *NeurIPS [Workshop Name]*, rejected.  
+- **Notes:** Short-form submission focused on preliminary experiments.  
+
+---
+
+### 4. WACV 2025 Submission  
+- **Folder:** `/wacv2025/`  
+- **File:** `wacv2025_submission.pdf`  
+- **Status:** Full paper, rejected from *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025)*.  
+- **Notes:** Submitted PDF and optional code/figures included.  
 
 ---
 
 ## 🚨 Disclaimer  
 
 - These manuscripts are **unpublished** and have **not been peer reviewed**.  
-- They are provided here *as-is* for transparency, reproducibility, and potential reuse of ideas.  
-- If you wish to cite them, please do so with a note that they are “unpublished manuscripts.”  
-
----
-
-## 📂 Suggested Repo Structure  
-
+- They are shared *as-is* for academic and archival purposes.  
+- If you reference these works, please note clearly that they are
