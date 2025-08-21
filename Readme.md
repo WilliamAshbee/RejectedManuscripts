@@ -25,7 +25,7 @@ I’m sharing them for transparency and in the hope that others may still find v
 
 ### 3. NeurIPS Workshop Submission  
 - **Folder:** `/neuripsworkshop/`  
-- **File:** [neuripsworkshop_submission.pdf](neuripsworkshop/neuripsworkshop_submission.pdf)  
+- **File:** [neuripsworkshop_submission.pdf](neuripsworkshop/Neurips2023WorkshopAbstract3DVitMeshnetUnet.pdf)  
 - **Status:** Workshop paper submitted to *NeurIPS [Workshop Name]*, rejected.  
 - **Notes:** Short-form submission focused on preliminary experiments.  
 
