@@ -17,7 +17,7 @@ I’m sharing them for transparency and in the hope that others may still find v
 
 ### 2. ISBI 2025 Submission  
 - **Folder:** `/isbi2025/`  
-- **File:** `isbi2025_poster.pdf`  
+- **File:** `isbisubmission.pdf`  
 - **Status:** 4-page poster paper, rejected from *IEEE International Symposium on Biomedical Imaging (ISBI 2025)*.  
 - **Notes:** Submitted PDF with figures and methods; concise poster-style submission.  
 
