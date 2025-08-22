@@ -1,4 +1,4 @@
-# Rejected Manuscripts  
+# Unpublished Manuscripts  
 
 This repository collects several of my research papers that were submitted but **not accepted** at their respective venues.  
 I’m sharing them for transparency and in the hope that others may still find value in the ideas and experiments.  
